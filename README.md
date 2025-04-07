@@ -4,7 +4,7 @@
 
 
 ### **<div align="center">I'm Rodrigo, I would like to be the best at what I do, and I will keep learning until I achieve it.😅💻</div>**  
-<img src="https://raw.githubusercontent.com/rodrigomartinze/rodrigomartinze/refs/heads/main/but-here's-the-coder.gif" width="300px">
+<img src="https://tenor.com/es-419/view/hffgf-gif-22453222" width="300px">
 
 
 - 🔭 I’m currently working on amazom  
