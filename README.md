@@ -23,7 +23,7 @@
 
 
 
-<img src="file:///C:/Users/willi/Downloads/My-skill-set-7-4-2025.png" width="300px">
+<img src="https://github.com/semitx/semitx/blob/main/My-skill-set-8-4-2025.png?raw=true" width="300px">
 <table><tr><td valign="top" width="33%">  
 
 
