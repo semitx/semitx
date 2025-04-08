@@ -1,5 +1,5 @@
 <div align="center">
-<img src="(https://github.com/semitx/semitx/blob/main/Black%20And%20Gold%20Elegant%20Business%20Name%20Facebook%20Cover.png?raw=true)" align="center" style="width: 100%" />
+<img src="https://github.com/semitx/semitx/blob/main/Black%20And%20Gold%20Elegant%20Business%20Name%20Facebook%20Cover.png?raw=true" align="center" style="width: 100%" />
 </div>  
 
 
