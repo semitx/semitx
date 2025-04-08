@@ -86,7 +86,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rodrigomartinze&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=semitx&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
 <br/>  
 
@@ -98,7 +98,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomartinze&layout=compact&langs_count=10&theme=tokyonight" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semitx&layout=compact&langs_count=10&theme=tokyonight" width="100%">
 
 
   
@@ -106,14 +106,14 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rodrigomartinze&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=semitx&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/rodrigomartinze" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/semitx" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
